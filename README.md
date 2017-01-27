@@ -9,3 +9,8 @@ Limits per Day: 36 Guests Week: 252 Guests month: ~1080 Guests
 Where Purchased GSuite Calendar API gives initial limit of 1000 Guest Request
 
 Please create pull request if you found any differences
+
+
+# References
+*. Own Testing
+*. https://premium.wpmudev.org/forums/topic/google-calendar-usage-limits-exceeded-after-200-updates
